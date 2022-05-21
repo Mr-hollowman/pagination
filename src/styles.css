@@ -1,0 +1,12 @@
+.pagenumber {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid white;
+  color: #fff;
+  background-color: #212529;
+}
+.pagenumber:hover {
+  background-color: #373b3e;
+}
